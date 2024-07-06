@@ -1,2 +1,2 @@
 # SoftwareTestingProjects
-all software testing documents
+all software testing manual projects with documents
